@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yazansedih/Progress-Steps/assets/137224224/8ff774ee-9e3e-489d-8dc0-beb7b52a825a" width=500px/>
+  <img src="https://github.com/yazansedih/Progress-Steps/assets/137224224/7b420f85-d961-45bf-ad4b-7569a778c499" width=500px/>
   <br />
   <br />
 
