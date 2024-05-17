@@ -8,4 +8,4 @@
 </div>  
 
 <h1>Progress-Steps</h1>
-Progress Steps is
+Progress Steps is a dynamic progress tracker with a series of numbered steps, visualized by circles and a connecting progress bar. Users can navigate through the steps using 'Next' and 'Prev' buttons.
